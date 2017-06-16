@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TiltBrushExamples/Environments/Standard.unity
+  isLoaded: 1
+  isActive: 1
